@@ -63,7 +63,7 @@ Run these commands in the VS Code terminal from the project root:
 ```bash
 git init
 git branch -M main
-git remote add origin https://github.com/cdebolt25/misy350_module2
+git remote add origin https://github.com/YOUR_USERNAME/assignment-manager-streamlit.git
 git remote -v
 ```
 
